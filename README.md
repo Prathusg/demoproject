@@ -1,2 +1,2 @@
 # demoproject
-im pratham learning <br> to access github(pratham)
+im pratham learning <br> to access github
